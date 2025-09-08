@@ -50,5 +50,4 @@ The main objective of this project was to apply **data preprocessing, explorator
 
 ---
 
-## 📂 Repository Structure
 
